@@ -1,0 +1,78 @@
+
+.portfolio {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+
+  header {
+    background-color: yellow;
+    color: blue;
+    padding: 20px;
+    text-align: center;
+  }
+  
+
+  nav {
+    background-color: orange;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  ul li{
+    list-style-type: none;
+  }
+  
+
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+
+  #about {
+    background-color: #f7f7f7;
+    padding: 20px;
+  }
+  
+
+  #projects {
+    background-color: #f7f7f7;
+    padding: 20px;
+  }
+  
+
+  #projects ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+ 
+  #projects li {
+    background-color: #fff;
+    padding: 20px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+
+  #projects img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+
+  #contact {
+    background-color: #f7f7f7;
+    padding: 20px;
+  }
+
+  #contact a {
+    color: #337ab7;
+    text-decoration: none;
+  }
